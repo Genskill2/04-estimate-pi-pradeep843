@@ -38,6 +38,7 @@ int main(void) {
     }
   }
 }
+
 float mc_pi(int n){
     int num_circle = 0, num_square = 0;
     for (int i = 0; i < n; i++) {
